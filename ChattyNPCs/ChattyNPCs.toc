@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: ChattyNPCs
+## Notes: Plays a sound file when NPCs speak.
+## Author: GregoryMcGregerson
+## Version: 0.01                                       
+
+Main.lua
