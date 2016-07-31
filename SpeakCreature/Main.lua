@@ -31,7 +31,7 @@ local quotelist={
 	["My daddy says that in the ocean, there are fish so big they could swallow a whole ship."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Billy\\506f4434ceca50b354800b08d5f233e8.ogg",
 	["Think there are any fish in here?"]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Billy\\76108d0383c51bcf281e74cc0424d67a.ogg",
   --Adam
-	["C'mon, let's try somewhere else."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Adam\\0570a359da6e45c74f04ae4abecfbd53.ogg",
+-- duplicate trigger, need to filter by name	["C'mon, let's try somewhere else."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Adam\\0570a359da6e45c74f04ae4abecfbd53.ogg",
 	["If you could catch a fish big enough for your mouth we'd never be hungry again."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Adam\\177aa8865fd9998e00bc121f3ea66d3c.ogg",
 	["If you fished as well as you talked the ocean wouldn't have any fish left."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Adam\\988b32e05caaf1f11c0d1e2230778d6a.ogg",
 	["Liar!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Adam\\51f0be5a16f8158191dee8e069b37bbd.ogg",
@@ -56,7 +56,7 @@ local quotelist={
 	["This is wonderful!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Vin\\3e92820fc01683e4d14857cfc24c0a60.ogg",
 	["Weee!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\Vin\\1ae75819897d4641ce6a0417478a0391.ogg",
  --Travis Nichols
- 	["Coming right up, lad. Say "hi" to your mother for me."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\TravisNichols\\a9394e8c51f222e3e6f011a7e95f6302.ogg",
+-- !quotes around "hi" causes problem 	["Coming right up, lad. Say "hi" to your mother for me."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\TravisNichols\\a9394e8c51f222e3e6f011a7e95f6302.ogg",
  	["She's my best customer."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\TravisNichols\\0c4ca7ae969bae410a9668032d74f206.ogg",
  --Xander Jaxon
  	["Mr. Nichols? Another cup of coffee please."]="Interface\\AddOns\\SpeakCreature\\Sounds\\StormwindCity\\XanderJaxon\\23f1fc4362a09d65ac56517750e81307.ogg",
