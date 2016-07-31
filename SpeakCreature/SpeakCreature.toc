@@ -1,6 +1,6 @@
 ## Interface: 70000
-## Title: ChattyNPCs
-## Notes: Plays a sound file when NPCs speak.
+## Title: SpeakCreature
+## Notes: Plays a sound file when NPCs say/yell/whisper in chat.
 ## Author: GregoryMcGregerson
 ## Version: 0.01                                       
 
