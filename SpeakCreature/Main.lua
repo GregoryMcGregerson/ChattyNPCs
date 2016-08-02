@@ -101,10 +101,10 @@ local quotelist={
 	["Iceblood Tower was taken by the Horde!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Alliance has taken Coldtooth Mine!  Its supplies will now be used for reinforcements!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Alliance has taken the Irondeep Mine!  Its supplies will now be used for reinforcements!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
-	["The Alliance wins!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
-	["The Dun Baldar North Bunker is under attack!  If left unchecked, the Horde will destroy it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
-	["The Dun Baldar North Bunker was destroyed by the Horde!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
-	["The Dun Baldar North Bunker was taken by the Alliance!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
+	["The Alliance wins!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\4b47413817610539e5583275854dbef6.ogg",
+	["The Dun Baldar North Bunker is under attack!  If left unchecked, the Horde will destroy it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\6b83bc49f3e18b45554b2170037d75d3.ogg",
+	["The Dun Baldar North Bunker was destroyed by the Horde!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\5955e580bb895059d1ce7e6889462e5d.ogg",
+	["The Dun Baldar North Bunker was taken by the Alliance!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\d42256c413d5c9ded7362d78f3fd5f6f.ogg",
 	["The Dun Baldar South Bunker is under attack!  If left unchecked, the Horde will destroy it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Dun Baldar South Bunker was destroyed by the Horde!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Dun Baldar South Bunker was taken by the Alliance!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
@@ -119,7 +119,7 @@ local quotelist={
 	["The Frostwolf Relief Hut was taken by the Horde!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Horde has taken the Coldtooth Mine!  Its supplies will now be used for reinforcements!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Horde has taken the Irondeep Mine!  Its supplies will now be used for reinforcements!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
-	["The Horde wins!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
+	["The Horde wins!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\0609ecdb1c7d72e78404b22647728f3c.ogg",
 	["The Iceblood Graveyard is under attack!  If left unchecked, the Alliance will capture it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Iceblood Graveyard is under attack!  If left unchecked, the Horde will capture it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Iceblood Graveyard was taken by the Alliance!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
@@ -137,7 +137,7 @@ local quotelist={
 	["The Stonehearth Graveyard was taken by the Horde!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Stormpike Aid Station is under attack!  If left unchecked, the Horde will capture it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Stormpike Aid Station was taken by the Alliance!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
-	["The Stormpike General is dead!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
+	["The Stormpike General is dead!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\739e3c1b9c30832d087f39c705534ab0.ogg",
 	["The Stormpike Graveyard is under attack!  If left unchecked, the Horde will capture it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Stormpike Graveyard was taken by the Alliance!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["The Stormpike Graveyard was taken by the Horde!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
@@ -147,7 +147,7 @@ local quotelist={
 	["Tower Point is under attack!  If left unchecked, the Alliance will destroy it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
 	["Tower Point was destroyed by the Alliance!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
  --Taskmaster Snivvle
-	["Snivvle is here!  Snivvle claims the Coldtooth mine!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\TaskmasterSnivvle\\.ogg",
+	["Snivvle is here!  Snivvle claims the Coldtooth mine!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\TaskmasterSnivvle\\2476bb41e7a0d9fd1b6e9bc957263199.ogg",
  --Captain Balinda Stonehearth
 	["Begone, uncouth scum!  The Alliance shall prevail in Alterac Valley!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\CaptainBalindaStonehearth\\.ogg",
 	["Filthy Frostwolf cowards! If you want a fight, you'll have to come to me!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\CaptainBalindaStonehearth\\.ogg",
@@ -188,21 +188,21 @@ local quotelist={
 	["The gates have been breached! Defend the keep!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\IsleOfConquest\\HighCommanderHalfordWyrmbane\\.ogg",
 --Blackrock Depths
  --Plugger Spazzrin
-	["Drink up!  There's more where that came from!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\.ogg",
-	["Enjoy!  You won't find better ale anywhere!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\.ogg",
-	["Have you tried the Dark Iron Ale?  It's the best!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\.ogg",
-	["Try the boar!  It's my new recipe!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\.ogg",
-	["Hey!  Get away from that!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\.ogg",
-	["That's it!  You're going down!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\.ogg",
-	["What are you doing over there?"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\.ogg",
+	["Drink up!  There's more where that came from!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\f731a0eb2657ee4a0f7d1ee7b86ecb01.ogg",
+	["Enjoy!  You won't find better ale anywhere!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\10ea06d74244395f22e2b68d3710ffda.ogg",
+	["Have you tried the Dark Iron Ale?  It's the best!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\fd5ae275579dff23de74c686b30f1c77.ogg",
+	["Try the boar!  It's my new recipe!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\fa548859f4115c1d7a7c32e004d5259c.ogg",
+	["Hey!  Get away from that!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\1eb3984e8538f545e310ede5ece14f89.ogg",
+	["That's it!  You're going down!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\fd97e60ab29a94b98b6d71e164d32bd2.ogg",
+	["What are you doing over there?"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\30e249a8af5a8401b1508025b575bfd6.ogg",
  --Lord Incendius
-	["I cannot be destroyed! By the will of Ragnaros, I shall be reborn!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\LordIncendius\\.ogg",
+	["I cannot be destroyed! By the will of Ragnaros, I shall be reborn!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\LordIncendius\\ae0bfd2387268c2e649f4c535079a98e.ogg",
 --Stormshield
  --Leah Kranz
-	["Come and get your freshly baked bread!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\.ogg",
-	["Fresh bread! Fresh bread for sale!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\.ogg",
-	["Rolls, buns and bread. Fresh from the oven!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\.ogg",
-	["Warm, wholesome bread!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\.ogg",
+	["Come and get your freshly baked bread!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\6a5a8bc41cca5fd5eeaa77a853a7a6e0.ogg",
+	["Fresh bread! Fresh bread for sale!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\631816f5248e96ad0021fd47749d4b1e.ogg",
+	["Rolls, buns and bread. Fresh from the oven!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\3d0b37a6eb934ca46d7ac91c23304cb9.ogg",
+	["Warm, wholesome bread!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\8bab608d26b6b9d02773dda64f2ced7d.ogg",
 }
 
 local addon = CreateFrame("Frame")
