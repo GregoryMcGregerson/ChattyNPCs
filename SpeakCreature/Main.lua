@@ -94,6 +94,12 @@ local quotelist={
  --Admiral Ripsnarl
 	["Ah, fresh meat!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\TheDeadmines\\AdmiralRipsnarl\\.ogg",
 	["You will...NOT find her...until it is too late..."]="Interface\\AddOns\\SpeakCreature\\Sounds\\TheDeadmines\\AdmiralRipsnarl\\.ogg",
+ --Goblin Craftsman
+	["They're alive..."]="Interface\\AddOns\\SpeakCreature\\Sounds\\TheDeadmines\\GoblinCraftsman\\.ogg",
+	["NOOOOOOO!!!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\TheDeadmines\\GoblinCraftsman\\.ogg",
+	["THEY'RE ALIVE!!!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\TheDeadmines\\GoblinCraftsman\\.ogg",
+ --Goblin Engineer
+	["RUN!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\TheDeadmines\\GoblinEngineer\\.ogg",
 --Alterac Valley
  --Herald
 	["Iceblood Tower is under attack!  If left unchecked, the Alliance will destroy it!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\AlteracValley\\Herald\\.ogg",
@@ -185,7 +191,7 @@ local quotelist={
  --Overlord Agmar
 	["The gates have been breached! Defend the keep!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\IsleOfConquest\\OverlordAgmar\\.ogg",
  --High Commander Halford Wyrmbane
-	["The gates have been breached! Defend the keep!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\IsleOfConquest\\HighCommanderHalfordWyrmbane\\.ogg",
+-- duplicate trigger	["The gates have been breached! Defend the keep!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\IsleOfConquest\\HighCommanderHalfordWyrmbane\\.ogg",
 --Blackrock Depths
  --Plugger Spazzrin
 	["Drink up!  There's more where that came from!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\BlackrockDepths\\PluggerSpazzrin\\f731a0eb2657ee4a0f7d1ee7b86ecb01.ogg",
@@ -203,6 +209,9 @@ local quotelist={
 	["Fresh bread! Fresh bread for sale!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\631816f5248e96ad0021fd47749d4b1e.ogg",
 	["Rolls, buns and bread. Fresh from the oven!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\3d0b37a6eb934ca46d7ac91c23304cb9.ogg",
 	["Warm, wholesome bread!"]="Interface\\AddOns\\SpeakCreature\\Sounds\\Stormshield\\LeahKranz\\8bab608d26b6b9d02773dda64f2ced7d.ogg",
+--Spires of Arak
+ --Spore-Addled Goblin
+	["Hey... that's mine! I think..."]="Interface\\AddOns\\SpeakCreature\\Sounds\\SpiresOfArak\\SporeAddledGoblin\\439d7652bad5a10f7a65ba00ffe7f013.ogg",
 }
 
 local addon = CreateFrame("Frame")
